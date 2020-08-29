@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">candidate</string>
+    <string name="countDown">Count Down To Election Day</string>
+    <string name="name">Rujira</string>
+</resources>

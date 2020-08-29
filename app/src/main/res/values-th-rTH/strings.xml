@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">candidate</string>
+    <string name="countDown">นับถอยหลังวันเลือกตั้ง</string>
+    <string name="name">รุจิรา</string>
+</resources>
